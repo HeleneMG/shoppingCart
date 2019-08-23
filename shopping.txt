@@ -1,0 +1,19 @@
+Développement d'une page produit de votre choix.
+
+Les produits sont affichés sous forme de cards. Vous afficherez les produits contenue dans data.js à l'aide de javascript. Vous pouvez changer les produits à votre guise.
+
+A l'aide d'une boucle, parcourez le tableau de données Json et affichez les dans une page web avec la méthode 'insertAdjacentHTML()'.
+
+Chaque card possède un bouton permettant de l'ajouter dans un panier.
+La panier permettra d'afficher les produits sélectionnés ainsi que la somme tarifaire des produits.
+
+Compétences visées : 
+Maquetter une application
+Développer une interface utilisateur statique et adaptable
+Développer une interface utilisateur dynamique et adaptable
+
+Pré-requis :
+Connaitre les bases de HTML - CSS - JS
+Savoir parcourir un tableau et afficher les éléments un par un.
+Créer dynamiquement du html avec JS
+Insérer du contenue dans une page HTML avec JS.z
